@@ -1,0 +1,4 @@
+requests==2.32.3
+pytest==8.3.3
+jsonschema==4.23.0
+pytest-html==4.1.1
